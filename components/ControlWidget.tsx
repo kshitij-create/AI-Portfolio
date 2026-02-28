@@ -42,7 +42,7 @@ export default function ControlWidget() {
         <div className="flex-1 p-6 border-r border-line flex flex-col justify-center">
           <div className="text-text-muted mb-2">GITHUB COMMITS</div>
           <div className="text-3xl font-bold mb-4">
-            23 <span className="text-lg text-text-muted font-normal">/mo</span>
+            842.5 <span className="text-lg text-text-muted font-normal">/mo</span>
           </div>
           <div className="text-text-muted mb-1">ACTIVE PROJECTS</div>
           <div className="flex items-center gap-2">

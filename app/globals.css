@@ -15,6 +15,12 @@ body {
   color: white;
 }
 
+@media (pointer: fine) {
+  * {
+    cursor: none !important;
+  }
+}
+
 /* Custom scrollbar for terminal */
 .terminal-scroll::-webkit-scrollbar {
   width: 6px;
